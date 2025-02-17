@@ -1,5 +1,4 @@
 # Student-Performance-Indicator-Prediction-
-# Student Performance Indicator (Prediction)
 
 ## 📌 Overview
 This project predicts students' math subject marks based on various categorical and numerical features. It follows an **End-to-End Machine Learning Project Lifecycle**, covering data ingestion, transformation, model training, evaluation, and deployment. This approach mirrors real-world **industry-level ML projects**.
